@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "shayari": "Tum meri wajah ho har khushi ki 😊, Dil se dil tak hai yeh bandagi ki 💖, Tum bin jeevan hai ek khali safar 🌌, Tum ho toh hai yeh duniya ke safar 🚶‍♂️"
+  },
+  {
+    "id": 2,
+    "shayari": "Teri aankhon mein khoya main rehta hoon 👀, Dil ka har ek pal tujhpe behta hoon 💓, Tum meri subah, tum meri shaam 🌅, Tum bin toh jeevan hai ek veeran naam 🖤"
+  },
+  {
+    "id": 3,
+    "shayari": "Teri baaton mein basi hai meri duniya 🌍, Tujhse juda toh hai khud se judaaiya 💔, Tum meri zindagi ka rang 🌈, Tere bina hai sab kuch besang 😔"
+  },
+  {
+    "id": 4,
+    "shayari": "Tere chehre ka noor hai meri roshni ✨, Teri muskaan mein basi hai meri khushi 😊, Tum meri wajah ho har dua ke liye 🙏, Tum bin toh hai jeevan ek sazaa ke liye 😞"
+  },
+  {
+    "id": 5,
+    "shayari": "Teri aankhein hain meri manzil ka raasta 🛤️, Tere bina hai dil ka yeh dilbar hasta 😄, Tum meri dhadkan, tum meri saans ho 💨, Tum bin toh jeevan ek udaas raag ho 🎶"
+  },
+  {
+    "id": 6,
+    "shayari": "Tere pyaar mein dooba hai yeh dil 💕, Tujhse juda toh hai jeevan mushkil 😣, Tum meri khushi ka har ek lamha ho 🌟, Tum bin toh sab kuch hai ek afsana ho 📖"
+  },
+  {
+    "id": 7,
+    "shayari": "Teri baaton ka jadoo hai dil pe chhaya 🪄, Tere bina yeh dil hai tanha saaya 🌑, Tum meri zindagi ka ek haseen geet ho 🎵, Tum bin toh hai jeevan ek khali preet ho 💔"
+  },
+  {
+    "id": 8,
+    "shayari": "Tere ishq mein khud ko bhool jata hoon 😍, Teri yaadon mein aksar doob jata hoon 🌊, Tum meri duniya ka ek anmol sitara ho ⭐, Tum bin toh jeevan ek veeran kinara ho 🏝️"
+  },
+  {
+    "id": 9,
+    "shayari": "Teri muskaan se roshan hai yeh jahan 🌞, Tere bina hai dil ka yeh aalam veeran 🥀, Tum meri zindagi ka ek haseen khwab ho 🌙, Tum bin toh hai jeevan ek sazaa ka sabab ho 😔"
+  },
+  {
+    "id": 10,
+    "shayari": "Tere pyaar ka rang hai meri duniya mein 🎨, Tere bina hai har pal ek sazaa mein 😞, Tum meri zindagi ka ek haseen safar ho 🚶‍♂️, Tum bin toh hai jeevan ek khali asar ho 🖤"
+  },
+  {
+    "id": 11,
+    "shayari": "Teri aankhon mein basi hai meri kahani 👀, Tere bina hai dil ki har baat purani 😔, Tum meri zindagi ka ek haseen nagma ho 🎶, Tum bin toh hai jeevan ek khali sapna ho 💭"
+  },
+  {
+    "id": 12,
+    "shayari": "Tere ishq mein dooba hai yeh dilbar 💖, Tere bina hai jeevan ek khali safar 🌌, Tum meri subah ka pehla khayal ho 🌅, Tum bin toh hai sab kuch ek veeran haal ho 😞"
+  },
+  {
+    "id": 13,
+    "shayari": "Teri baaton se dil ko sukoon milta hai 😊, Tere bina yeh dil tanha silta hai 🥀, Tum meri zindagi ka ek haseen rang ho 🌈, Tum bin toh hai jeevan ek khali sang ho 🖤"
+  },
+  {
+    "id": 14,
+    "shayari": "Tere pyaar mein khud ko bhoola hai maine 😍, Teri yaadon mein dil ko dooba hai maine 🌊, Tum meri zindagi ka ek anmol khazana ho 💎, Tum bin toh hai jeevan ek khali fasana ho 📖"
+  },
+  {
+    "id": 15,
+    "shayari": "Teri muskaan se roshan hai meri duniya 🌞, Tere bina hai dil ki yeh khaali duniya 🥀, Tum meri zindagi ka ek haseen geet ho 🎵, Tum bin toh hai jeevan ek khali preet ho 💔"
+  },
+  {
+    "id": 16,
+    "shayari": "Tere ishq ka noor hai meri roshni ✨, Tere bina hai dil ka yeh aalam khushi 😊, Tum meri zindagi ka ek haseen jadoo ho 🪄, Tum bin toh hai jeevan ek khali adhoo ho 🖤"
+  },
+  {
+    "id": 17,
+    "shayari": "Teri aankhon mein basi hai meri manzil 👀, Tere bina hai dil ka yeh safar mushkil 😣, Tum meri zindagi ka ek haseen khwab ho 🌙, Tum bin toh hai jeevan ek sazaa ka sabab ho 😔"
+  },
+  {
+    "id": 18,
+    "shayari": "Tere pyaar mein dooba hai yeh dil mera 💕, Tere bina hai jeevan ek khali safar tera 🌌, Tum meri zindagi ka ek anmol sitara ho ⭐, Tum bin toh hai jeevan ek veeran kinara ho 🏝️"
+  },
+  {
+    "id": 19,
+    "shayari": "Teri baaton mein basi hai meri khushi 😊, Tere bina hai dil ki yeh khaali si bandagi 🥀, Tum meri zindagi ka ek haseen rang ho 🌈, Tum bin toh hai jeevan ek khali sang ho 🖤"
+  },
+  {
+    "id": 20,
+    "shayari": "Tere ishq mein khud ko bhoola diya 😍, Teri yaadon mein dil ko dooba diya 🌊, Tum meri zindagi ka ek haseen nagma ho 🎶, Tum bin toh hai jeevan ek khali sapna ho 💭"
+  },
+  {
+    "id": 21,
+    "shayari": "Teri muskaan hai meri zindagi ka noor ✨, Tere bina hai dil ka yeh aalam chur 😔, Tum meri subah ka pehla khayal ho 🌅, Tum bin toh hai jeevan ek veeran haal ho 😞"
+  },
+  {
+    "id": 22,
+    "shayari": "Tere pyaar se roshan hai meri duniya 🌍, Tere bina hai dil ki yeh khaali si duniya 🥀, Tum meri zindagi ka ek haseen geet ho 🎵, Tum bin toh hai jeevan ek khali preet ho 💔"
+  },
+  {
+    "id": 23,
+    "shayari": "Teri aankhon mein khoya hai yeh dil mera 👀, Tere bina hai jeevan ek khali safar tera 🌌, Tum meri zindagi ka ek anmol sitara ho ⭐, Tum bin toh hai jeevan ek veeran kinara ho 🏝️"
+  },
+  {
+    "id": 24,
+    "shayari": "Tere ishq ka rang hai meri zindagi mein 🎨, Tere bina hai har pal ek sazaa mein 😞, Tum meri zindagi ka ek haseen safar ho 🚶‍♂️, Tum bin toh hai jeevan ek khali asar ho 🖤"
+  },
+  {
+    "id": 25,
+    "shayari": "Teri baaton se dil ko sukoon aata hai 😊, Tere bina yeh dil tanha sata hai 🥀, Tum meri zindagi ka ek haseen rang ho 🌈, Tum bin toh hai jeevan ek khali sang ho 🖤"
+  },
+  {
+    "id": 26,
+    "shayari": "Tere pyaar mein dooba hai yeh dilbar 💖, Tere bina hai jeevan ek khali safar 🌌, Tum meri subah ka pehla khayal ho 🌅, Tum bin toh hai sab kuch ek veeran haal ho 😞"
+  },
+  {
+    "id": 27,
+    "shayari": "Teri aankhon mein basi hai meri kahani 👀, Tere bina hai dil ki har baat purani 😔, Tum meri zindagi ka ek haseen nagma ho 🎶, Tum bin toh hai jeevan ek khali sapna ho 💭"
+  },
+  {
+    "id": 28,
+    "shayari": "Tere ishq mein khud ko bhool jata hoon 😍, Teri yaadon mein aksar doob jata hoon 🌊, Tum meri zindagi ka ek anmol khazana ho 💎, Tum bin toh hai jeevan ek khali fasana ho 📖"
+  },
+  {
+    "id": 29,
+    "shayari": "Teri muskaan se roshan hai yeh jahan 🌞, Tere bina hai dil ka yeh aalam veeran 🥀, Tum meri zindagi ka ek haseen khwab ho 🌙, Tum bin toh hai jeevan ek sazaa ka sabab ho 😔"
+  },
+  {
+    "id": 30,
+    "shayari": "Tere pyaar ka noor hai meri roshni ✨, Tere bina hai dil ka yeh aalam khushi 😊, Tum meri zindagi ka ek haseen jadoo ho 🪄, Tum bin toh hai jeevan ek khali adhoo ho 🖤"
+  },
+  {
+    "id": 31,
+    "shayari": "Teri aankhein hain meri manzil ka raasta 🛤️, Tere bina hai dil ka yeh dilbar hasta 😄, Tum meri dhadkan, tum meri saans ho 💨, Tum bin toh jeevan ek udaas raag ho 🎶"
+  },
+  {
+    "id": 32,
+    "shayari": "Tere ishq mein dooba hai yeh dil 💕, Tujhse juda toh hai jeevan mushkil 😣, Tum meri khushi ka har ek lamha ho 🌟, Tum bin toh sab kuch hai ek afsana ho 📖"
+  },
+  {
+    "id": 33,
+    "shayari": "Teri baaton mein basi hai meri duniya 🌍, Tujhse juda toh hai khud se judaaiya 💔, Tum meri zindagi ka ek haseen rang ho 🌈, Tum bin toh hai jeevan ek khali sang ho 🖤"
+  },
+  {
+    "id": 34,
+    "shayari": "Tere chehre ka noor hai meri roshni ✨, Teri muskaan mein basi hai meri khushi 😊, Tum meri wajah ho har dua ke liye 🙏, Tum bin toh hai jeevan ek sazaa ke liye 😞"
+  },
+  {
+    "id": 35,
+    "shayari": "Teri aankhon mein khoya hai yeh dil mera 👀, Tere bina hai jeevan ek khali safar tera 🌌, Tum meri zindagi ka ek anmol sitara ho ⭐, Tum bin toh hai jeevan ek veeran kinara ho 🏝️"
+  },
+  {
+    "id": 36,
+    "shayari": "Tere pyaar mein dooba hai yeh dilbar 💖, Tere bina hai jeevan ek khali safar 🌌, Tum meri subah ka pehla khayal ho 🌅, Tum bin toh hai sab kuch ek veeran haal ho 😞"
+  },
+  {
+    "id": 37,
+    "shayari": "Teri muskaan hai meri zindagi ka noor ✨, Tere bina hai dil ka yeh aalam chur 😔, Tum meri subah ka pehla khayal ho 🌅, Tum bin toh hai jeevan ek veeran haal ho 😞"
+  },
+  {
+    "id": 38,
+    "shayari": "Tere ishq ka rang hai meri duniya mein 🎨, Tere bina hai har pal ek sazaa mein 😞, Tum meri zindagi ka ek haseen safar ho 🚶‍♂️, Tum bin toh hai jeevan ek khali asar ho 🖤"
+  },
+  {
+    "id": 39,
+    "shayari": "Teri baaton se dil ko sukoon milta hai 😊, Tere bina yeh dil tanha silta hai 🥀, Tum meri zindagi ka ek haseen rang ho 🌈, Tum bin toh hai jeevan ek khali sang ho 🖤"
+  },
+  {
+    "id": 40,
+    "shayari": "Tere pyaar mein khud ko bhoola diya 😍, Teri yaadon mein dil ko dooba diya 🌊, Tum meri zindagi ka ek anmol khazana ho 💎, Tum bin toh hai jeevan ek khali fasana ho 📖"
+  },
+  {
+    "id": 41,
+    "shayari": "Teri aankhon mein dekha pehla khwab maine 👀, Tere pyaar ko dil se dil se rakha maine 💖, Tum ho mera akhiri ishq ka safar 🌌, Tum bin jeevan hai ek adhoora asar 🖤"
+  },
+  {
+    "id": 42,
+    "shayari": "Teri muskaan se shuru hui meri kahani 😊, Tere bina hai dil ki har baat purani 😔, Tum mere pehle aur akhiri pyaar ho 🌸, Tum bin toh hai jeevan ek khali talwaar ho ⚔️"
+  },
+  {
+    "id": 43,
+    "shayari": "Tere ishq mein dil ne pehli baar dhadka 💓, Tujhse hi yeh dil hamesha tadpa 😍, Tum meri zindagi ka akhiri rang ho 🌈, Tum bin toh hai dil ka yeh khali sang 😞"
+  },
+  {
+    "id": 44,
+    "shayari": "Teri baaton se shuru hui meri duniya 🌍, Tere bina hai dil ki yeh khaali duniya 🥀, Tum mera pehla aur akhiri khwab ho 🌙, Tum bin toh hai jeevan ek sazaa ka sabab ho 😔"
+  },
+  {
+    "id": 45,
+    "shayari": "Tere chehre ka noor pehli roshni thi ✨, Tujhse hi meri zindagi ki har khushi thi 😊, Tum meri akhiri dua ka silsila ho 🙏, Tum bin toh hai jeevan ek khali jila ho 🖤"
+  },
+  {
+    "id": 46,
+    "shayari": "Teri aankhon mein pehla pyaar dekha maine 👀, Tere bina dil ne tanha safar dekha maine 🌌, Tum meri zindagi ka akhiri geet ho 🎶, Tum bin toh jeevan ek khaali preet ho 💔"
+  },
+  {
+    "id": 47,
+    "shayari": "Tere pyaar mein pehli baar jiya dil ne 💕, Tujhse hi toh sapne piya dil ne 🌟, Tum meri akhiri manzil ka raasta ho 🛤️, Tum bin toh jeevan ek veeranaasta ho"
+  },
+  {
+    "id": 48,
+    "shayari": "Teri muskaan se shuru hua safar mera 😊, Tere bina hai jeevan ek adhoora basera 😔, Tum mera pehla aur akhiri sitara ho ⭐, Tum bin toh hai jeevan ek veeran kinara ho 🏝️"
+  },
+  {
+    "id": 49,
+    "shayari": "Tere ishq mein pehli baar khoya hoon 😍, Teri yaadon mein aksar dooba hoon 🌊, Tum meri zindagi ka akhiri khazana ho 💎, Tum bin toh hai jeevan ek khali fasana ho 📖"
+  },
+  {
+    "id": 50,
+    "shayari": "Teri baaton ka jadoo pehla asar tha 🪄, Tere bina dil ka yeh khali safar tha 🌌, Tum meri akhiri khushi ka rang ho 🌈, Tum bin toh hai jeevan ek khali sang 😞"
+  },
+  {
+    "id": 51,
+    "shayari": "Tere pyaar ne pehla dhadkan ka geet diya 🎵, Tujhse hi toh dil ne jeet diya 🏆, Tum meri akhiri pyaar ka vaada ho 😊, Tum bin toh jeevan ek khaali irada ho 💔"
+  },
+  {
+    "id": 52,
+    "shayari": "Teri aankhein pehli manzil thi meri 👀, Tere bina hai dil ki yeh khaali si jheri 🥀, Tum mera akhiri haseen khwab ho 🌙, Tum bin toh jeevan ek sazaa ka sabab ho 😔"
+  },
+  {
+    "id": 53,
+    "shayari": "Tere ishq mein pehla rang chhaya tha 🎨, Tere bina dil tanha reh gaya tha 😞, Tum meri akhiri subah ka noor ho 🌅, Tum bin toh hai jeevan ek khaali shoor ho 🖤"
+  },
+  {
+    "id": 54,
+    "shayari": "Teri muskaan mein pehla sukoon tha 😊, Tere bina dil tanha junoon tha 😣, Tum mera pehla aur akhiri jahan ho 🌍, Tum bin toh hai jeevan ek veeran samaan ho 🥀"
+  },
+  {
+    "id": 55,
+    "shayari": "Tere pyaar ka pehla ehsaas tha dil mein 💖, Tujhse hi toh noor aaya hai jhil mein 🌊, Tum meri akhiri khushi ka safar ho 🚶‍♂️, Tum bin toh hai jeevan ek khali asar ho 🖤"
+  },
+  {
+    "id": 56,
+    "shayari": "Teri baaton se pehla jeevan ka rang mila 🌈, Tere bina dil ka yeh dilbar tang mila 😔, Tum mera akhiri pyaar ka geet ho 🎶, Tum bin toh hai jeevan ek khali preet ho 💔"
+  },
+  {
+    "id": 57,
+    "shayari": "Tere ishq mein pehli baar dooba dil 😍, Tujhse juda toh jeevan mushkil 😣, Tum meri akhiri manzil ka khwab ho 🌌, Tum bin toh hai jeevan ek sazaa ka sabab ho 😞"
+  },
+  {
+    "id": 58,
+    "shayari": "Teri aankhon mein pehla sitara dekha 👀, Tere bina dil ne tanhaara dekha 😔, Tum mera pehla aur akhiri noor ho ✨, Tum bin toh hai jeevan ek veeran shoor ho 🖤"
+  },
+  {
+    "id": 59,
+    "shayari": "Tere pyaar ne pehli baar dil jagaya 💕, Tujhse hi toh jeevan rang laya 🌈, Tum meri akhiri khushi ka jadoo ho 🪄, Tum bin toh hai jeevan ek khali adhoo ho 😞"
+  },
+  {
+    "id": 60,
+    "shayari": "Teri muskaan se pehla pyaar hua 😊, Tere bina dil tanha adhoora hua 🥀, Tum mera akhiri ishq ka vaada ho 😍, Tum bin toh hai jeevan ek khali irada ho 💔"
+  },
+  {
+    "id": 61,
+    "shayari": "Tere bina hai dil ka yeh aalam veeran 🥀, Tujhse hi toh roshan hai mera jahan 🌞, Tum bin zindagi adhoori si lagti hai 😔, Tere pyaar se hi jeevan poori si lagti hai 💖"
+  },
+  {
+    "id": 62,
+    "shayari": "Teri muskaan bina hai yeh duniya sooni 😞, Tujhse hi toh hai meri khushi ki chhuni 😊, Tere bina jeevan ek khali safar hai 🌌, Tum ho toh dil ka har rang safar hai 🌈"
+  },
+  {
+    "id": 63,
+    "shayari": "Tere bina hai dil ka yeh haal tanha 😣, Tujhse hi toh hai mera jeevan sanha 😍, Tum bin zindagi adhoori si rehti hai 🖤, Tere saath hi toh khushi poori si rehti hai ✨"
+  },
+  {
+    "id": 64,
+    "shayari": "Teri aankhon bina hai yeh manzil sooni 👀, Tujhse hi toh hai meri khwab ki chhuni 🌙, Tere bina jeevan ek khali kahani hai 📖, Tum ho toh dil ki har baat suhaani hai 😊"
+  },
+  {
+    "id": 65,
+    "shayari": "Tere bina hai zindagi ek khali raag 🎶, Tujhse hi toh dil ka har pal hai aag 🔥, Tum bin jeevan adhoora sa lagta hai 😔, Tere pyaar se hi poora sa lagta hai 💕"
+  },
+  {
+    "id": 66,
+    "shayari": "Teri baaton bina hai yeh dil udaas 😞, Tujhse hi toh hai meri khushi ka ehsaas 😊, Tere bina zindagi ek khali asar hai 🖤, Tum ho toh jeevan ek haseen safar hai 🚶‍♂️"
+  },
+  {
+    "id": 67,
+    "shayari": "Tere bina hai dil ka yeh aalam khamosh 🤫, Tujhse hi toh hai meri zindagi ka josh 😍, Tum bin jeevan adhoora sa rehta hai 😔, Tere saath hi toh poora sa rehta hai 💖"
+  },
+  {
+    "id": 68,
+    "shayari": "Teri muskaan bina hai yeh jahan veeran 🥀, Tujhse hi toh roshan hai mera samaan 🌞, Tere bina zindagi ek khali khwab hai 🌌, Tum ho toh dil ka har rang suhaab hai 🌈"
+  },
+  {
+    "id": 69,
+    "shayari": "Tere bina hai dil ka yeh safar sooni 😞, Tujhse hi toh hai meri khushi ki chhuni 😊, Tum bin jeevan adhoora sa lagta hai 🖤, Tere pyaar se hi poora sa lagta hai ✨"
+  },
+  {
+    "id": 70,
+    "shayari": "Teri aankhon bina hai yeh manzil veeran 👀, Tujhse hi toh hai mera khwab suhaan 🌙, Tere bina zindagi ek khali kahani hai 📖, Tum ho toh dil ki har baat suhaani hai 😍"
+  },
+  {
+    "id": 71,
+    "shayari": "Tere bina hai zindagi ek khali geet 🎵, Tujhse hi toh dil ka har pal hai meet 😊, Tum bin jeevan adhoora sa rehta hai 😔, Tere saath hi toh poora sa rehta hai 💕"
+  },
+  {
+    "id": 72,
+    "shayari": "Teri baaton bina hai yeh dil tanha 😞, Tujhse hi toh hai meri khushi ka silsila 😍, Tere bina zindagi ek khali safar hai 🌌, Tum ho toh jeevan ek haseen asar hai 🌈"
+  },
+  {
+    "id": 73,
+    "shayari": "Tere bina hai dil ka yeh aalam sooni 🥀, Tujhse hi toh hai meri khushi ki chhuni ✨, Tum bin jeevan adhoora sa lagta hai 😔, Tere pyaar se hi poora sa lagta hai 💖"
+  },
+  {
+    "id": 74,
+    "shayari": "Teri muskaan bina hai yeh jahan khamosh 😞, Tujhse hi toh hai meri ka har josh 😊, Tere bina zindagi ek khali raag hai 🎶, Tum ho toh dil ka har pal hai aag 🔥"
+  },
+  {
+    "id": 75,
+    "shayari": "Tere bina hai yeh manzil veeran 😣, Tujhse hi toh hai mera khwab suhaan 🌙, Tum bin jeevan adhoora sa rehta hai 🖤, Tere saath hi toh poora sa rehta hai 😍"
+  },
+  {
+    "id": 76,
+    "shayari": "Teri aankhon bina hai yeh dil sooni 👀, Tujhse hi toh hai meri khushi ki chhuni 😊, Tere bina zindagi ek khali kahani hai 📖, Tum ho toh dil ki har baath suhaani hai ✨"
+  },
+  {
+    "id": 77,
+    "shayari": "Tere bina hai zindagi ek khali safar 🌌, Tujhse hi toh hai mera dil ka asar 😍, Tum bin jeevan adhoora sa lagta hai 😔, Tere pyaar se hi poora sa lagta hai 💕"
+  },
+  {
+    "id": 78,
+    "shayari": "Teri baaton bina hai yeh dil udaas 😞, Tujhse hi toh hai meri khushi ka ehsaas 😊, Tere bina zindagi ek khali asar hai 🖤, Tum ho toh jeevan ek haseen safar hai 🚶‍♂️"
+  },
+  {
+    "id": 79,
+    "shayari": "Tere bina hai dil ka yeh aalam veeran 🥀, Tujhse hi toh roshan hai mera jahan 🌞, Tum bin zindagi adhoori si lagti hai 😔, Tere pyaar se hi poori si lagti hai 💖"
+  },
+  {
+    "id": 80,
+    "shayari": "Teri muskaan bina hai yeh duniya sooni 😞, Tujhse hi toh hai meri khushi ki chhuni 😊, Tere bina jeevan ek khali safar hai 🌌, Tum ho toh dil ka har rang safar hai 🌈"
+  }
+]
